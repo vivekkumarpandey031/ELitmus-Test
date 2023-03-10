@@ -374,16 +374,13 @@ server
 
 ### License 📜
 
-[GNU General Public License v3.0](/LICENSE)
+
 
 
 ### Authors
 
-- Vivek Namaye 
-  - [LinkedIn](https://www.linkedin.com/in/viveknamaye/)
-- Akshay Kanade 
-  - [LinkedIn](https://www.linkedin.com/in/akshaykanade/)
-- Tushar Nankani
-  - [Twitter](https://twitter.com/tusharnankanii) 
+- Vivek kumar pandey
+- elitmus assignmemt 
+  
 
 <sub>We are Team VAT, not Value Added Tax, but Vivek, Akshay and myself, Tushar.</sub>
