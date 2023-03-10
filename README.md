@@ -41,7 +41,7 @@
 
 ### Problem we are trying to solve?
 
-Due to Covid 19, remote learning has been a constant and so have been online examinations. 
+online examinations protocorment assigmnet by elitmus. 
 <br />
 But proctoring has always been a task and cheating and unfair practices have always been a problem.
 <br />
